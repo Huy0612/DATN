@@ -41,7 +41,7 @@
 
 #define ZALO_ENABLED            true
 #define ZALO_BOT_TOKEN          "BOT_TOKEN"
-#define ZALO_CHAT_ID            "e0bc67060750ee0eb741"
+#define ZALO_CHAT_ID            "chat id"
 #define ZALO_REPEAT_INTERVAL_MS 60000UL
 
 #define QUEUE_FILE      "/queue.txt"
