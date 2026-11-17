@@ -36,11 +36,11 @@
 #define TB_ENABLED      true
 #define TB_SERVER       "thingsboard.cloud"
 #define TB_PORT         1883
-#define TB_TOKEN        "hRp2Gn3p7WjNj5KQY7pK"
+#define TB_TOKEN        "token_device"
 #define TB_TOPIC        "v1/devices/me/telemetry"
 
 #define ZALO_ENABLED            true
-#define ZALO_BOT_TOKEN          "THAY_BOT_TOKEN_CUA_BAN_VAO_DAY"
+#define ZALO_BOT_TOKEN          "BOT_TOKEN"
 #define ZALO_CHAT_ID            "e0bc67060750ee0eb741"
 #define ZALO_REPEAT_INTERVAL_MS 60000UL
 
